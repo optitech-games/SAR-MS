@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olofa\\source\\repos\\SAR MS\\SAR MS\\SAR MS.csproj": {}
+    "C:\\Users\\olofa\\OneDrive\\Dokument\\GitHub\\SAR-MS\\SAR MS\\SAR MS\\SAR MS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olofa\\source\\repos\\SAR MS\\SAR MS\\SAR MS.csproj": {
+    "C:\\Users\\olofa\\OneDrive\\Dokument\\GitHub\\SAR-MS\\SAR MS\\SAR MS\\SAR MS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olofa\\source\\repos\\SAR MS\\SAR MS\\SAR MS.csproj",
+        "projectUniqueName": "C:\\Users\\olofa\\OneDrive\\Dokument\\GitHub\\SAR-MS\\SAR MS\\SAR MS\\SAR MS.csproj",
         "projectName": "SAR MS",
-        "projectPath": "C:\\Users\\olofa\\source\\repos\\SAR MS\\SAR MS\\SAR MS.csproj",
+        "projectPath": "C:\\Users\\olofa\\OneDrive\\Dokument\\GitHub\\SAR-MS\\SAR MS\\SAR MS\\SAR MS.csproj",
         "packagesPath": "C:\\Users\\olofa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olofa\\source\\repos\\SAR MS\\SAR MS\\obj\\",
+        "outputPath": "C:\\Users\\olofa\\OneDrive\\Dokument\\GitHub\\SAR-MS\\SAR MS\\SAR MS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
