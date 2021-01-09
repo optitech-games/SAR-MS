@@ -216,3 +216,4 @@ C:\Users\olofa\OneDrive\Dokument\GitHub\SAR-MS\SAR MS\SAR MS\obj\Debug\netcoreap
 C:\Users\olofa\OneDrive\Dokument\GitHub\SAR-MS\SAR MS\SAR MS\obj\Debug\netcoreapp3.1\SAR MS.csproj.CopyComplete
 C:\Users\olofa\OneDrive\Dokument\GitHub\SAR-MS\SAR MS\SAR MS\obj\Debug\netcoreapp3.1\SAR MS.dll
 C:\Users\olofa\OneDrive\Dokument\GitHub\SAR-MS\SAR MS\SAR MS\obj\Debug\netcoreapp3.1\SAR MS.pdb
+C:\Users\olofa\OneDrive\Dokument\GitHub\SAR-MS\SAR MS\SAR MS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Skapare.cshtml.g.cs
